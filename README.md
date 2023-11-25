@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdaqib11
 - 👀 I’m interested in ...part time job like work that can be done on laptop at home 
 - 🌱 I’m currently learning ...java, DS,git ,OS,
-- 💞️ I’m looking to collaborate on ...gmail
+- 💞️ I’m looking to 
 - 📫 How to reach me mdaqibhussain11@gmail.com
 
 <!---
